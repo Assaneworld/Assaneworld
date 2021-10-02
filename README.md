@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Assanouz
+- 👋 Hi,
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning the crypto markets place
+- 🌱 
 - 💞️ I’m looking to collaborate on ETH, antchain
 - 📫 How to reach me assaneworld@protonmail.com
 <!---
